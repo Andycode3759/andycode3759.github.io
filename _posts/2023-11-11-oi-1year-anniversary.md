@@ -21,7 +21,7 @@ math: true
 |   [CodeForces](https://codeforces.com/profile/Andycode3759)   | 2022/11/?  |   20    |   11   |  423   |
 |       [AtCoder](https://atcoder.jp/users/Andycode3759)        |     ?      |    ?    |   ?    |   -    |
 | [牛客](https://ac.nowcoder.com/acm/contest/profile/600823218) |  2023/1/?  |   118   |   26   |  1064  |
-|     [POJ](http://poj.org/userstatus?user_id=andycode3759)     |     ?      |   15    |   4    |   -    |
+|    [POJ](https://poj.org/userstatus?user_id=andycode3759)     |     ?      |   15    |   4    |   -    |
 |        [云斗学院](https://yundouxueyuan.com/user/2610)        | 2023/6/21  | 20+42\* | 8+16\* |   -    |
 
 \*加号前的数据是云斗主站，加号后的数据是济南特训营。
